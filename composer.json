@@ -1,0 +1,17 @@
+{
+    "name": "kalidou/guisse",
+    "autoload": {
+        "psr-4": {
+            "Kalidou\\Guisse\\": "src/",
+            "App\\": "src/",
+            "Core\\": "config/core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kalidou GUISSE",
+            "email": "kalidouguisse16@gmail.com"
+        }
+    ],
+    "require": {}
+}
